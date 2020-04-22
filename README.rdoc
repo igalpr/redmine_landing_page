@@ -1,6 +1,9 @@
 = redmine_landing_page
 
 Landing Page plugin for redmine. 
+
 Tested with redmine 4.1
+
 using rails 5.2
+
 Install to redmine/plugins directory and run "bundle exec rake redmine:plugins:migrate".
